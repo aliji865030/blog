@@ -1,0 +1,34 @@
+.headind{
+    font-size: 16px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left: -40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    margin-left: 437px;
+    margin-right: 462px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 5px;
+    opacity: .7;
+    
+}
+.video{
+    display: flex;
+    justify-content: center;
+    border: 2px solid gray;
+    height: 250px;
+    width: 350px;
+    margin-left: 435px;
+}
